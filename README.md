@@ -1,6 +1,5 @@
 # html
-Please write some html code
-Like this
+HTML code to print heading using <h1> tag
 <!DOCTYPE html>
 <html>
 <head>
